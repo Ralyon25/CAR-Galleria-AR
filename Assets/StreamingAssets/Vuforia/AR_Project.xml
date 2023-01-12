@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Lamborgini" size="500.000000 280.000000" />
+    <ImageTarget name="BMW_dark_logo" size="500.000000 333.750000" />
+    <ImageTarget name="ferrari-logo-illustration" size="500.000000 350.000000" />
+  </Tracking>
+</QCARConfig>
